@@ -6,3 +6,4 @@
 | [datatraining.csv](/csv/datatraining.csv)  | Occupancy Detecttion : Predicting if anyone is in a room | 8143 | [link](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+)
 | [HappinessSurvey2015.csv](/csv/HappinessSurvey2015.csv) | Happiness Survey | 143 | [link](https://archive.ics.uci.edu/ml/datasets/Somerville+Happiness+Survey)|
 | [zoo2.csv](/csv/zoo2.csv) | It predicts the class to which each animal belong | 43 | [link](https://www.kaggle.com/agajorte/zoo-animals-extended-dataset) |
+| [divorce.csv](/csv/divorce.csv)  | Divorce Predictors data set | 170 | [link](https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#)  |
