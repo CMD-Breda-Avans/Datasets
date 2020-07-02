@@ -11,3 +11,4 @@
 | [ad_clicker.csv](/csv/ad_clicker.csv)  |  Predict if someone will click on an online advertisement | 1001 | [link] |
 | [breast_cancer.csv](/csv/breast_cancer.csv)  |  Predict recurrence of breast cancer | 286 | [link](https://archive.ics.uci.edu/ml/datasets/breast+cancer) |
 | [Employee_attrition.csv](/csv/Employee_attrition.csv) | Predict when an employee will leave his job | 1471 | [link](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) |
+| [advertising.csv] (/csv/advertising.csv) | Predict sales number based on advertising bugdet in different media | 201 | [link](https://www.kaggle.com/ashydv/advertising-dataset) |
