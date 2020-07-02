@@ -13,4 +13,4 @@
 | [Employee_attrition.csv](/csv/Employee_attrition.csv) | Predict when an employee will leave his job | 1471 | [link](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)|
 | [advertising.csv](/csv/advertising.csv) | Predict sales number based on advertising bugdet in different media | 201 | [link](https://www.kaggle.com/ashydv/advertising-dataset) |
 | [credit.csv](/csv/credit.csv) | !!!Dataset needs to fixed on neural_net - Predicts people as good or bad credit risks | 1001 | [link](https://datahub.io/machine-learning/credit-g#readme) |
-| [extra_marrital_affairs](/csv/extra_marrital_affairs.csv) | !!!Datasets needs to be fixed on neural_net - Predicts the the frequency of extramarital affairs | 602 | [link](https://www.kaggle.com/clarkchong/fairs-affairs-dataset) |
+| [extra_marrital_affair](/csv/extra_marrital_affair.csv) | !!!Datasets needs to be fixed on neural_net - Predicts the the frequency of extramarital affairs | 602 | [link](https://www.kaggle.com/clarkchong/fairs-affairs-dataset) |
