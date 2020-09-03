@@ -14,3 +14,4 @@
 | [advertising.csv](/csv/advertising.csv) | Predict sales number based on advertising bugdet in different media | 201 | [link](https://www.kaggle.com/ashydv/advertising-dataset) |
 | [credit.csv](/csv/credit.csv) | !!!Dataset needs to fixed on neural_net - Predicts people as good or bad credit risks | 1001 | [link](https://datahub.io/machine-learning/credit-g#readme) |
 | [extra_marrital_affair](/csv/Extra_marrital_affair_v2.csv) | !!!Datasets needs to be fixed on neural_net - Predicts the the frequency of extramarital affairs | 602 | [link](https://www.kaggle.com/clarkchong/fairs-affairs-dataset) |
+| [student_exam_performance](/csv/Students_Exam_Performance.csv)  |  Predict Student score on exam  | 1000 | [link](https://www.kaggle.com/spscientist/students-performance-in-exams)  |
