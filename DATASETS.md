@@ -16,4 +16,4 @@
 | [extra_marrital_affair](/csv/Extra_marrital_affair_v2.csv) | !!!Datasets needs to be fixed on neural_net - Predicts the the frequency of extramarital affairs | 602 | [link](https://www.kaggle.com/clarkchong/fairs-affairs-dataset) |
 | [student_exam_performance](/csv/Students_Exam_Performance.csv)  |  Predict Student score on exam  | 1000 | [link](https://www.kaggle.com/spscientist/students-performance-in-exams)  |
 |  [insurance](/csv/insurance.csv)  | Predict insurance cost based on age, gender, health index | 1338 | [link](https://www.kaggle.com/mirichoi0218/insurance)  |
-| [video game](/csv/vgsales.csv)| This dataset contains a list of video games with sales greater than 100,000 copies. | 3990 | [link] (https://www.kaggle.com/gregorut/videogamesales)   |
+| [video game](/csv/vgsales.csv)| This dataset contains a list of video games with sales greater than 100,000 copies. | 3990 | [link](https://www.kaggle.com/gregorut/videogamesales)   |
