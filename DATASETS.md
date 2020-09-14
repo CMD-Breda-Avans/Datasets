@@ -9,7 +9,7 @@
 | [Divorce.csv](/csv/divorce.csv)  | Divorce Predictors data set | 170 | [link](https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#)  |
 | [Activity_recognition.csv](/csv/Activity_recognition.csv)  | Activity recognition with healthy older people  | 401 | [link](https://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+sensor)
 | [Ad_clicker.csv](/csv/ad_clicker.csv)  |  Predict if someone will click on an online advertisement | 1001 | [link](https://www.kaggle.com/fayomi/advertising) |
-| [Breast_cancer.csv](/csv/breast_cancer.csv)  |  Predict recurrence of breast cancer | 286 | [link](https://archive.ics.uci.edu/ml/datasets/breast+cancer) |
+| [Breast_cancer.csv](/csv/breast_cancer.csv)  |  Predict recurrence of breast cancer | 286 | [link1](https://archive.ics.uci.edu/ml/datasets/breast+cancer) [link2](https://www.linkedin.com/pulse/using-machine-learning-techniques-predict-recurrence-breast-alva/) |
 | [Employee_attrition.csv](/csv/Employee_attrition.csv) | Predict when an employee will leave his job | 1471 | [link](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)|
 | [Advertising.csv](/csv/advertising.csv) | Predict sales number based on advertising bugdet in different media | 201 | [link](https://www.kaggle.com/ashydv/advertising-dataset) |
 | [Credit.csv](/csv/credit.csv) | Predicts people as good or bad credit risks | 1001 | [link](https://datahub.io/machine-learning/credit-g#readme) |
