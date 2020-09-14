@@ -5,7 +5,7 @@
 | [Belgium_wages.csv](/csv/Belgium_wages.csv) | Wage predictor  | 1472 | [link](https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/Bwages.html) |
 | [Occupancy.csv](/csv/datatraining.csv)  | Occupancy Detecttion : Predicting if anyone is in a room | 8143 | [link](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+)
 | [HappinessSurvey.csv](/csv/HappinessSurvey_v2.csv) | Happiness Survey | 143 | [link](https://archive.ics.uci.edu/ml/datasets/Somerville+Happiness+Survey)|
-| [Zoo.csv](/csv/zoo2.csv) | It predicts the class to which each animal belong | 43 | [link](https://www.kaggle.com/agajorte/zoo-animals-extended-dataset) |
+| [Zoo.csv](/csv/zoo2.csv) | It predicts the class to which each animal belong | 43 | [link](https://www.kaggle.com/uciml/zoo-animal-classification) |
 | [Divorce.csv](/csv/divorce.csv)  | Divorce Predictors data set | 170 | [link](https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set#)  |
 | [Activity_recognition.csv](/csv/Activity_recognition.csv)  | Activity recognition with healthy older people  | 401 | [link](https://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+sensor)
 | [Ad_clicker.csv](/csv/ad_clicker.csv)  |  Predict if someone will click on an online advertisement | 1001 | [link] |
