@@ -13,7 +13,7 @@
 | [Employee_attrition.csv](/csv/Employee_attrition_v2.csv) | Predict when an employee will leave his job | 1471 | [link](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)|
 | [Advertising.csv](/csv/advertising.csv) | Predict sales number based on advertising bugdet in different media | 201 | [link](https://www.kaggle.com/ashydv/advertising-dataset) |
 | [Credit.csv](/csv/credit.csv) | Predicts people as good or bad credit risks | 1001 | [link](https://datahub.io/machine-learning/credit-g#readme) |
-| [Extra_marrital_affair](/csv/Extra_marrital_affair_v2.csv) | !!!Datasets needs to be fixed on neural_net - Predicts the the frequency of extramarital affairs | 602 | [link](https://www.kaggle.com/clarkchong/fairs-affairs-dataset) |
+| [Extra_marrital_affair](/csv/Extra_marrital_affair_v2.csv) | Predicts the the frequency of extramarital affairs | 602 | [link](https://www.kaggle.com/clarkchong/fairs-affairs-dataset) |
 | [Student_exam_performance](/csv/Students_Exam_Performance.csv)  |  Predict Student score on exam  | 1000 | [link](https://www.kaggle.com/spscientist/students-performance-in-exams)  |
 |  [Insurance.csv](/csv/insurance.csv)  | Predict insurance cost based on age, gender, health index | 1338 | [link](https://www.kaggle.com/mirichoi0218/insurance)  |
 | [Video game.csv](/csv/vgsales.csv)| This dataset contains a list of video games with sales greater than 100,000 copies. | 3990 | [link](https://www.kaggle.com/gregorut/videogamesales)   |
