@@ -16,6 +16,5 @@
 | [Extra_marrital_affair](/csv/Extra_marrital_affair_v2.csv) | Predicts the the frequency of extramarital affairs | 602 | [link](https://www.kaggle.com/clarkchong/fairs-affairs-dataset) |
 | [Student_exam_performance](/csv/Students_Exam_Performance.csv)  |  Predict Student score on exam  | 1000 | [link](https://www.kaggle.com/spscientist/students-performance-in-exams)  |
 |  [Insurance.csv](/csv/insurance.csv)  | Predict insurance cost based on age, gender, health index | 1338 | [link](https://www.kaggle.com/mirichoi0218/insurance)  |
-| [Video game.csv](/csv/vgsales.csv)| This dataset contains a list of video games with sales greater than 100,000 copies. | 3990 | [link](https://www.kaggle.com/gregorut/videogamesales)   |
 |  [Heart_disease.csv](/csv/Heart_disease.csv) | Predict the presence of heart disease in the patient | 303 | [link](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) |
 | [Driving_licence.csv](/csv/driving_data_final.csv) | Predict the performance of candidate for the driving licence exam | 647 | 
